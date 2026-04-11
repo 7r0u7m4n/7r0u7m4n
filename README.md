@@ -32,12 +32,11 @@ My HTB Academy Student ID: HTB-9322A3E138
 | **Password Attack & Hash Cracking**    | hashcat, john the ripper, hydra                                     |
 
 ### 📜 Certifications
+- Certified in Cybersecurity (CC)
 - Cisco Ethical Hacker
 - Cisco Networking Basics
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- CS50 Introduction to Cybersecurity
 - CS50 Introduction to Programming with Python
-- Codecademy Introduction to Cybersecurity
 - Codecademy Learn Bash Scripting Course
 
 ### 🚀 Featured Projects
