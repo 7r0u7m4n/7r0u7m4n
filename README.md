@@ -20,18 +20,6 @@ My HTB Profile: https://profile.hackthebox.com/profile/019c65c8-c473-7338-b96a-d
   </a>
 </p>
 
-### 🛠️ Tools
-
-| **Category**                           |**Tools**                                                            |
-|----------------------------------------|---------------------------------------------------------------------|
-| **Information Gathering / OSINT**      | whois, dig, nslookup, osint framework                               |
-| **Scanning & Enumeration**             | nmap, gobuster, whatweb, enum4linux, onesixtyone, netexec           |
-| **Web Application Analysis**           | burp suite                                                          |
-| **Vulnerability Assessment**           | nmap, burp suite, recon-ng, metasploit                              |
-| **Exploitation**                       | metasploit, hydra, evil-winrm, netexec                              |
-| **Post-Exploitation & Privilege Escalation** | peass-ng, linuxprivchecker, linenum, mimikatz, evil-winrm     |
-| **Password Attack & Hash Cracking**    | hashcat, john the ripper, hydra                                     |
-
 ### 📜 Certifications
 - Certified in Cybersecurity (CC)
 - Cisco Ethical Hacker
